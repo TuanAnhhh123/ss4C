@@ -1,0 +1,36 @@
+<mxfile host="Electron" modified="2023-11-09T13:16:36.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="BPOjC6iLTa-XDlZz_35b" version="22.0.3" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="QPmLkh1GTiPeiuK9uhtf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QPmLkh1GTiPeiuK9uhtf-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPmLkh1GTiPeiuK9uhtf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QPmLkh1GTiPeiuK9uhtf-0" target="QPmLkh1GTiPeiuK9uhtf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmLkh1GTiPeiuK9uhtf-0" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmLkh1GTiPeiuK9uhtf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QPmLkh1GTiPeiuK9uhtf-2" target="QPmLkh1GTiPeiuK9uhtf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmLkh1GTiPeiuK9uhtf-2" value="nhâp số nguyên&lt;br&gt;sau do in ra&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmLkh1GTiPeiuK9uhtf-4" value="if(number%3==0&amp;amp;&amp;amp;number%5){&lt;br&gt;printf(&quot;%d la so chia het cho 3va5&quot;);}&lt;br&gt;else{printf(&quot;%d la so ko chia het cho3 va&lt;br&gt;5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="300" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmLkh1GTiPeiuK9uhtf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QPmLkh1GTiPeiuK9uhtf-5" target="QPmLkh1GTiPeiuK9uhtf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmLkh1GTiPeiuK9uhtf-5" value="int number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
